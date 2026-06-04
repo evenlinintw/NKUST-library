@@ -1,0 +1,6 @@
+{
+  "name": "高科大圖書館",
+  "description": "國立高雄科技大學圖書館行動入口 App，提供線上借還書查詢、空間預約、最新消息與圖書資源等快捷連結。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
